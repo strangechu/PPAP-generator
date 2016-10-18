@@ -1,5 +1,5 @@
 # PPAP-generator
-A meme-generator-like generator inspired by PPAP.
+A meme-generator-like generator inspired by [PPAP](https://www.youtube.com/watch?v=d9TpRfDdyU0) coded with php.
 
-Imagick
-![hi](/ppap_sample.jpg)
+Image processing provided by [Imagick](http://www.imagemagick.org/script/index.php).
+![after](/ppap_sample.jpg)
